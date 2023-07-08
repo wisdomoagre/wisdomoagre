@@ -2,7 +2,7 @@
   <h1> Hi there👋! I'm Wisdom from 🇳🇬</h1>
   <br>
  
-  ![](https://komarev.com/ghpvc/?username=dovidmoishe&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=wisdomoagre&style=for-the-badge)
   <h1> I'm a full-stack developer, welcome to my Github</h1>
 </div>
 
