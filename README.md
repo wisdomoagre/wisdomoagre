@@ -5,6 +5,8 @@
   ![](https://komarev.com/ghpvc/?username=wisdomoagre&style=for-the-badge)
   <h1> I'm a full-stack developer, welcome to my Github</h1>
 </div>
+![wisdom m  ogar](https://github.com/wisdomoagre/wisdomoagre/assets/122360420/d77485a6-97bb-43e6-bcf6-6905bbd57652)
+
 
 ---
 
