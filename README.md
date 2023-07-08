@@ -10,13 +10,13 @@
 
 ### 👨‍💻 About Me :
 
-- :telescope: I’m currently working on various projects to help improve my skills as a full-stack developer and solidity developer
+- :telescope: I’m currently working on various projects to help improve my skills as a full-stack developer
 
 - :seedling: I'm currently learning Web development
 
 - :zap: In my free time, I read tech articles, write tech articles and scroll through Github 😁
 
-- :mailbox: Contact me at ozerlihashem@gmail.com
+- :mailbox: Contact me at ogarwisdom31@gmail.com
 
 ---
 
